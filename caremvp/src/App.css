@@ -1,11 +1,15 @@
 /* styles.css */
 
-body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-color: #f7f9fc;
-  color: #6A0DAD;
+html, body {
+  height: 100%;
   margin: 0;
   padding: 0;
+  background: linear-gradient(135deg, #8f5ec1, #b499ce);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#root {
+  height: 100%;
 }
 
 .container {

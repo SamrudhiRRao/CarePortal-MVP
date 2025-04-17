@@ -25,12 +25,6 @@ A smart matching portal that helps patients and their families find suitable car
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots here if you like! You can include steps, match results, etc.
-
----
-
 ## 🛠️ Tech Stack
 
 - ⚛️ React.js
@@ -84,7 +78,3 @@ Made with 💜 by **Samrudhi R. Rao**
 If you have any questions or feedback, feel free to reach out!
 
 ---
-
-## 🧠 Thought Process & Learnings
-
-> I followed a component-driven approach, making the app modular and easy to maintain. I focused on clean UX and intuitive flow while keeping business logic readable and testable.
